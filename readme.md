@@ -16,11 +16,11 @@ Author: **CodeF53#0241**
 
 ## Image of GUI:
 
-![image](https://imgur.com/MKUJ467)
+![image](https://imgur.com/MKUJ467.png)
 
 In the above image, I had a seperate example mod declare it's initialization.
 
-![image](https://imgur.com/765he8h)
+![image](https://imgur.com/765he8h.png)
 
 In the above image, the same example mod was set to declare when it's task was running. (it did this every tick)
 
