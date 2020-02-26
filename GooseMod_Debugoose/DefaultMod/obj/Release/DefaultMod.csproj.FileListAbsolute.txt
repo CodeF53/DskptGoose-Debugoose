@@ -15,3 +15,13 @@ C:\Users\Chase\Desktop\DskptGoose\FOR MOD-MAKERS\GooseMod_DebugMod\DefaultMod\ob
 C:\Users\Chase\Desktop\DskptGoose\FOR MOD-MAKERS\GooseMod_DebugMod\DefaultMod\obj\Release\debugoose.pdb
 C:\Users\Chase\Desktop\DskptGoose\FOR MOD-MAKERS\GooseMod_DebugMod\DefaultMod\obj\Release\debugoose.Properties.Resources.resources
 C:\Users\Chase\Desktop\DskptGoose\FOR MOD-MAKERS\GooseMod_DebugMod\DefaultMod\obj\Release\DefaultMod.csproj.GenerateResource.cache
+C:\Users\Chase\Desktop\DskptGoose\ModCreation\Mods\DskptGoose-Debugoose\GooseMod_Debugoose\DefaultMod\bin\Release\debugoose.dll
+C:\Users\Chase\Desktop\DskptGoose\ModCreation\Mods\DskptGoose-Debugoose\GooseMod_Debugoose\DefaultMod\bin\Release\debugoose.pdb
+C:\Users\Chase\Desktop\DskptGoose\ModCreation\Mods\DskptGoose-Debugoose\GooseMod_Debugoose\DefaultMod\bin\Release\GooseModdingAPI.dll
+C:\Users\Chase\Desktop\DskptGoose\ModCreation\Mods\DskptGoose-Debugoose\GooseMod_Debugoose\DefaultMod\bin\Release\GooseModdingAPI.pdb
+C:\Users\Chase\Desktop\DskptGoose\ModCreation\Mods\DskptGoose-Debugoose\GooseMod_Debugoose\DefaultMod\obj\Release\DefaultMod.csprojAssemblyReference.cache
+C:\Users\Chase\Desktop\DskptGoose\ModCreation\Mods\DskptGoose-Debugoose\GooseMod_Debugoose\DefaultMod\obj\Release\debugoose.Properties.Resources.resources
+C:\Users\Chase\Desktop\DskptGoose\ModCreation\Mods\DskptGoose-Debugoose\GooseMod_Debugoose\DefaultMod\obj\Release\DefaultMod.csproj.GenerateResource.cache
+C:\Users\Chase\Desktop\DskptGoose\ModCreation\Mods\DskptGoose-Debugoose\GooseMod_Debugoose\DefaultMod\obj\Release\DefaultMod.csproj.CopyComplete
+C:\Users\Chase\Desktop\DskptGoose\ModCreation\Mods\DskptGoose-Debugoose\GooseMod_Debugoose\DefaultMod\obj\Release\debugoose.dll
+C:\Users\Chase\Desktop\DskptGoose\ModCreation\Mods\DskptGoose-Debugoose\GooseMod_Debugoose\DefaultMod\obj\Release\debugoose.pdb

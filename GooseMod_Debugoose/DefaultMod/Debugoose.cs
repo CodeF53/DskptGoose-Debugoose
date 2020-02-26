@@ -23,8 +23,6 @@ namespace DefaultMod
         int ConslnNum;
         StringWriter cnslStream;
 
-
-
         void IMod.Init()
         {
             cnslStream = new StringWriter();
@@ -100,7 +98,17 @@ namespace DefaultMod
         }
         public void drawTask(GooseEntity g, Graphics graph)
         {
-            InfoLine(g, graph, tasks[g.currentTask]);
+            float Walk = g.parameters.WalkSpeed;
+            float Run = g.parameters.RunSpeed;
+            float Charge = g.parameters.ChargeSpeed;
+
+            String speed = g.currentSpeed == Walk ?
+                             "Walk (" : g.currentSpeed == Run ?
+                                          "Run (" : g.currentSpeed == Charge ?
+                                                      "Charge (" : "Custom (";
+            speed += g.currentSpeed + ")";
+
+            InfoLine(g, graph, tasks[g.currentTask] + " " + speed);
         }
     }
 }
