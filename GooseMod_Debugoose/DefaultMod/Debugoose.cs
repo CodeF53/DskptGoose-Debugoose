@@ -32,7 +32,15 @@ namespace DefaultMod
             brushBlack = new SolidBrush(Color.FromArgb(255/* /2 */, Color.Black));
             brushGreen = new SolidBrush(ColorTranslator.FromHtml("#4AF626"));
 
+            InjectionPoints.PreTickEvent += saveLogs;
+
             InjectionPoints.PostRenderEvent += PostRender;
+        }
+
+        public void saveLogs(GooseEntity g)
+        {
+            File.Create("log.txt").Close();
+            File.WriteAllText("log.txt", cnslStream.ToString());
         }
 
         public void PostRender(GooseEntity g, Graphics graph)
